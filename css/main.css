@@ -401,7 +401,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("images/4.jpg");
+    url("https://img.olhardigital.com.br/wp-content/uploads/2021/01/shutterstock_603345986.jpg");
   background-size: cover;
   position: relative;
   color: #fff;
@@ -417,7 +417,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.9) 100%
     ),
-    url("images/1.jpg");
+    url("https://www.lifewire.com/thmb/5SAyP9pswXtuLKeUj_7WnSb_k-s=/2119x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1215154478-af95456032be4c5ba80ab64453bb7736.jpg");
 }
 
 .services__card h2 {
